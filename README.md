@@ -1,0 +1,1 @@
+Boilerplate for Typescript in Vite enviroment
