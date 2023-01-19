@@ -1,1 +1,3 @@
-Boilerplate for Typescript in Vite enviroment
+Boilerplate for Typescript in Vite enviroment.
+
+To use this starter clone the repository first, then run "npm install" command, to install the dependencies. To initialize the local server run "npm run dev". In a new terminal run the command "npm run deploy -w". This last command allows you to program in Typescript in the "src" directory and automatically deploy vanilla JavaScript continuously in the "dist" directory. The file structure accepts you to create as many modules as you want in "scr/js/modules" directory, the files will be automatically created and deployed in the "dist" folder.
