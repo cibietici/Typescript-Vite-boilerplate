@@ -1,2 +1,3 @@
-"use strict";
-console.log('header ts');
+export default function header() {
+    console.log('header ts');
+}
